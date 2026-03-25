@@ -13,7 +13,8 @@
 
 <br>
 
-🌐 [foxglowgames.com](https://foxglowgames.com) &nbsp;·&nbsp; 🎮 [itch.io](https://foxglow-games.itch.io) &nbsp;·&nbsp; 🐦 [Twitter](https://x.com/FoxglowGames)
+🌐 [foxglowgames.com](https://foxglowgames.com) &nbsp;·&nbsp; 🎮 [itch.io](https://foxglow-games.itch.io) &nbsp;·&nbsp; <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/43fde8b3-1307-4e3b-861a-0b22701c4d7b" />
+ [Twitter](https://x.com/FoxglowGames)
 
 </div>
 
